@@ -1,0 +1,3 @@
+Damn it worked
+Created by this command
+start notepad example.txt
